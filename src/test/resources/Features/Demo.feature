@@ -11,5 +11,5 @@ Feature: A cucumber pom demo
 
     Examples:
     |username|password|
-    |vignesh |user123 |
+    #|vignesh |user123 |
     |admin@yourstore.com|admin|
